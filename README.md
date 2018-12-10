@@ -5,11 +5,10 @@ To Run the Exercises Online: [![Binder](https://mybinder.org/badge_logo.svg)](ht
 
 ## Course Overview
 
-### Course Goals
-
+### Day 0
 Together, we identified many things we wanted to come away with in the course:
 
-!()[images/course_goals.jpg]
+![](images/course_goals.jpg)
 
 
 
