@@ -15,6 +15,8 @@ Together, we identified many things we wanted to come away with in the course:
 
 ## Additional Learning Resources
 
+Data Science Handbook (Jupyter Notebooks): https://github.com/jakevdp/PythonDataScienceHandbook
+
 
 ### The Terminal
 
