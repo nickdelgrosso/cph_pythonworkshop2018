@@ -15,7 +15,12 @@ https://ipywidgets.readthedocs.io/en/stable/
 
 ## Additional Learning Resources
 
-Data Science Handbook (Jupyter Notebooks): https://github.com/jakevdp/PythonDataScienceHandbook
+  - Data Science Handbook (Jupyter Notebooks): https://github.com/jakevdp/PythonDataScienceHandbook
+  - Python News Subreddit: https://www.reddit.com/r/python
+  - Python Learning subreddit (good for asking hard-to-google questions when starting out): https://www.reddit.com/r/learnpython
+  - Meetup (for open interest groups in copenhagen and abroad): www.meetup.com
+  - PyData (for conferences and workshops for further learning): www.pydata.com
+  - EuroScipy (scientific conference for python-using scientists): https://www.euroscipy.org/
 
 
 ### The Terminal
