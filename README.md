@@ -21,6 +21,7 @@ https://ipywidgets.readthedocs.io/en/stable/
   - Meetup (for open interest groups in copenhagen and abroad): www.meetup.com
   - PyData (for conferences and workshops for further learning): www.pydata.com
   - EuroScipy (scientific conference for python-using scientists): https://www.euroscipy.org/
+  - Datacamp: https://www.datacamp.com/
 
 
 ### The Terminal
